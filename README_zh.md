@@ -7,7 +7,9 @@ BitShares-UI
 
 ## 项目依赖
 
-BitShares-UI 依赖于 Node.js v6 以上版本。
+BitShares-UI 依赖于 Node.js v9 以上版本。
+
+Windows 可以直接下载安装 (https://nodejs.org/zh-cn/)。
 
 在 Linux 和 macOS 上，安装 Node 最简单的方式是用 [NVM](https://github.com/creationix/nvm)。
 
